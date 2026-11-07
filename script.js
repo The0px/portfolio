@@ -306,7 +306,7 @@ function loadGithubContributions() {
     if (!container) return;
 
     fetch(
-        "https://github-contributions-api.jogruber.de/v4/scorpion7slayer?y=last",
+        "https://github-contributions-api.jogruber.de/v4/The0px?y=last",
     )
         .then(function (r) {
             return r.json();
