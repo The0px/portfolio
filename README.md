@@ -30,14 +30,14 @@ The site is **bilingual (FR/EN)** — change the language in the navigation bar.
 
 ## Featured Projects
 
-- **[stardance-github-exporter](https://github.com/scorpion7slayer/stardance-github-exporter)** — Chrome and Firefox extension for importing GitHub repositories into Stardance with one click
+- **[stardance-github-exporter](https://github.com/The0px/stardance-github-exporter)** — Chrome and Firefox extension for importing GitHub repositories into Stardance with one click
 
-- **[NxtAIGen](https://github.com/scorpion7slayer/NxtAIGen)** — Multi-model AI chatbot (GPT, Claude, Mistral) from a single interface
+- **[NxtAIGen](https://github.com/The0px/NxtAIGen)** — Multi-model AI chatbot (GPT, Claude, Mistral) from a single interface
 
 - **[NxtGit](https://nxtgit.nxtaigen.com/)** — Lightweight GitHub client for macOS/Windows: cloning, committing, diffing — no browser required
 
 - **[BenchSift](https://benchsift.nxtaigen.com/)** — Dashboard comparing AI models: performance, price, and speed Real-time updates
-- **[NxtUpdate](https://github.com/scorpion7slayer/NxtUpdate)** — Updates Homebrew, Node, Python, Rust, and macOS from a single terminal.
+- **[NxtUpdate](https://github.com/The0px/NxtUpdate)** — Updates Homebrew, Node, Python, Rust, and macOS from a single terminal.
 
 ## Technology Stack
 
@@ -99,8 +99,8 @@ sitemap.xml SEO
 
 ## Author
 
-**Théo** (scorpion7slayer)
+**Théo** (The0px)
 
 - Portfolio: [theo.nxtaigen.com](https://theo.nxtaigen.com/)
 
-- GitHub: [github.com/scorpion7slayer](https://github.com/scorpion7slayer)
+- GitHub: [github.com/The0px](https://github.com/The0px)
